@@ -26,7 +26,7 @@ Data intelligence pour cabinet de M&A
 - **Livrable :** Fichier Excel avec données enrichies et scores
 - **Stack :** Python, Pandas, APIs REST
 
-### [🏠 Pipeline SCI Scoring]([lien-vers-repo](https://github.com/Clerks303/sci-scoring-pipeline)
+### [🏠 Pipeline SCI Scoring](https://github.com/Clerks303/sci-scoring-pipeline)
 Qualification de prospects immobiliers
 - Identification automatique de SCI à potentiel
 - Scoring multi-critères pour priorisation
