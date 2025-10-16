@@ -4,7 +4,7 @@
 
 **Juriste de formation, je développe des solutions IA concrètes pour résoudre des problèmes business réels.**
 
-Passionné par l'intersection entre droit, business et technologie, je construis des applications d'automation et de data intelligence qui génèrent des résultats mesurables. Je développe avec Cursor pour livrer rapidement des solutions qui fonctionnent.
+Passionné par l'intersection entre droit, business et technologie, je construis des applications d'automation et de data intelligence qui génèrent des résultats mesurables. Je développe avec Codex CLI, GPT Engineer Devika et Cursor pour livrer rapidement des solutions qui fonctionnent.
 
 ---
 
