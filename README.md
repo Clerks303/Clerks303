@@ -49,7 +49,8 @@ Veille financière automatisée
 **Data :** Pandas, NumPy, Web Scraping  
 **Interfaces :** React, Next 
 **Base de données :** SQLite, PostgreSQL  
-**Outils :** Cursor, Git
+**Outils & AI Dev Environment :** Cursor, Claude Code, GitHub Copilot / OpenAI Codex, MCP Sentry, Devika
+
 ---
 
 <div align="center">
