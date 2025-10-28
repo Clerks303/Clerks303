@@ -52,3 +52,7 @@ Veille financière automatisée
 **Outils :** Cursor, Git
 ---
 
+<div align="center">
+  <strong>If it doesn’t run in prod, it doesn’t count.</strong>
+</div>
+
