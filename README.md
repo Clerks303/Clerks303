@@ -52,9 +52,3 @@ Veille financière automatisée
 **Outils :** Cursor, Git
 ---
 
-
-**Philosophie :** Je ne suis pas développeur Python classique, mais je livre des applications qui fonctionnent. L'IA démocratise le développement – je l'utilise pour créer de la valeur rapidement.
-
----
-
-📫 **Contact :** [romain@naevoo.com] | 🌐 [naevoo.com](https://naevoo.com) 
