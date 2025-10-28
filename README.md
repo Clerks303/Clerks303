@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# Romain Sultan – Builder IA
+# Romain Sultan – AI Engineer · GenAI Automation
 
-**Juriste de formation, je développe des solutions IA concrètes pour résoudre des problèmes business réels.**
-
-Passionné par l'intersection entre droit, business et technologie, je construis des applications d'automation et de data intelligence qui génèrent des résultats mesurables. Je développe avec Codex CLI, GPT Engineer Devika et Cursor pour livrer rapidement des solutions qui fonctionnent.
+Je conçois des systèmes IA qui automatisent du vrai business.
+Python, FastAPI, Next.js · LLM Agents, RAG, Scoring · Cloud & API first.
+Actuellement en build : plateformes d’automatisation commerciale, scoring prospects & assistants IA métier.
 
 ---
 
@@ -52,11 +52,6 @@ Veille financière automatisée
 **Outils :** Cursor, Git
 ---
 
-## 💼 À propos
-
-**Actuellement :**
-- Juriste @ Fédération Bancaire Française (depuis 3 ans)
-- Fondateur @ Naevoo – Solutions d'automation IA ([naevoo.com](https://naevoo.com))
 
 **Philosophie :** Je ne suis pas développeur Python classique, mais je livre des applications qui fonctionnent. L'IA démocratise le développement – je l'utilise pour créer de la valeur rapidement.
 
