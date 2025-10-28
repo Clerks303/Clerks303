@@ -44,12 +44,12 @@ Veille financière automatisée
 
 ## 🛠️ Stack technique
 
-**Langages & Frameworks :** Python, SQL  
-**IA & LLMs :** Claude API, LangChain, Prompt Engineering  
-**Data :** Pandas, NumPy, Web Scraping  
-**Interfaces :** React, Next 
-**Base de données :** SQLite, PostgreSQL  
-**Outils & AI Dev Environment :** Cursor, Claude Code, GitHub Copilot / OpenAI Codex, MCP Sentry, Devika
+**Langages :** Python, TypeScript/JavaScript, SQL  
+**Frameworks :** FastAPI, Next.js, LangChain, Streamlit  
+**LLM & Agents :** OpenAI, Mistral, Anthropic (Claude), RAG, embeddings, prompt engineering  
+**Data :** Pandas, APIs REST, scraping, PostgreSQL  
+**Cloud & DevOps :** Docker, OVH, Supabase  
+**Outils IA :** Cursor IDE, Claude Code, GitHub Copilot (Codex), MCP Sentry, Devika
 
 ---
 
